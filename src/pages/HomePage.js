@@ -25,7 +25,7 @@ const HomePage = () => {
         </div>
         <div className="photos_row2">
           <div className="photos_row2_1">
-            <img src={Pooja} style={{height: '100%', width: '100%', objectFit: 'cover'}} alt="" srcset="" />
+            <img src='https://res.cloudinary.com/dcu66bdvp/image/upload/v1670519703/8_utq8zv.jpg' style={{height: '100%', width: '100%', objectFit: 'cover'}} alt="" srcset="" />
           </div>
           <div className="photos_row2_2">
             <div className="photos_row2_2_text">
