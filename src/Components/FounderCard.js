@@ -1,9 +1,12 @@
 import React from "react";
 
 export default function FounderCard(props) {
+  const style = {
+    background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 33.82%, rgba(0, 0, 0, 0.74) 100%), center, url(${props.url})`,
+  };
   return (
     <div
-      style={{ backgroundImage: `url(${props.url})`, backgroundPosition: "center",}}
+      style={style}
       className="founder-card"
     >
       <div className="founder-name">
