@@ -34,6 +34,7 @@ html {
   overflow-x: hidden;
   background-color: var(--background);
   font-family: Equinox;
+  -webkit-text-size-adjust: 100%;
 }
 
 code {
@@ -3992,7 +3993,7 @@ code {
 
   .cardFront h3 {
     color: var(--title);
-    font-size: 1rem;
+    font-size: 0.75rem;
   }
 
   .cardBack {

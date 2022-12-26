@@ -337,7 +337,7 @@ export const Meridians=[
         "title": "MERIDIAN"
     },
     {
-        "name": "",
+        "name": "Khushi Chaudhary",
         "url": "https://res.cloudinary.com/dcu66bdvp/image/upload/v1669641372/cb0136_sm6iao.png",
         "title": "MERIDIAN"
     },
