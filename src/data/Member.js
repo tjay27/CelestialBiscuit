@@ -31,6 +31,16 @@ export const Nebula=[
 
 export const Retrograde=[
     {
+        "name": "Adwita Singh",
+        "url": "https://res.cloudinary.com/dcu66bdvp/image/upload/v1669834548/cb0365_rqoj8a.png",
+        "title": "RETROGRADE"
+    },
+    {
+        "name": "Himani Agarwal",
+        "url": "https://res.cloudinary.com/dcu66bdvp/image/upload/v1669641389/cb0111_s5rewk.png",
+        "title": "RETROGRADE"
+    },
+    {
         "name": "Ishita Saxena",
         "url": "https://res.cloudinary.com/dcu66bdvp/image/upload/v1669641366/cb0120_hn0i5n.png",
         "title": "RETROGRADE"
