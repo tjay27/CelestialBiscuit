@@ -3992,7 +3992,7 @@ code {
 
   .cardFront h3 {
     color: var(--title);
-    font-size: 12px;
+    font-size: 1rem;
   }
 
   .cardBack {
