@@ -552,7 +552,7 @@ export const Meridians=[
         "title": "MERIDIAN"
     },
     {
-        "name": "Shradha Jain",
+        "name": "Shreel",
         "url": "https://res.cloudinary.com/dcu66bdvp/image/upload/v1669641361/cb0267_2_aaxv8g.png",
         "title": "MERIDIAN"
     },
