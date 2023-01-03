@@ -642,7 +642,7 @@ export const Meridians=[
         "title": "MERIDIAN"
     },
     {
-        "name": "Ashwani Kumar",
+        "name": "Ashwani Kumari",
         "url": "https://res.cloudinary.com/dcu66bdvp/image/upload/v1669834548/cb0366_p0w5b9.png",
         "title": "MERIDIAN"
     },
