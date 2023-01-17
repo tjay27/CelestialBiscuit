@@ -2,12 +2,12 @@ export const Faculty=[
     { 
         "name": "AK Mohapatra",
         "url": "https://res.cloudinary.com/dcu66bdvp/image/upload/v1673976988/prof-akm_kuc76n.jpg",
-        "title": "FACULTY ADVISORS"
+        "title": "FACULTY ADVISOR"
     },
     {
         "name": "Shweta Singhal",
         "url" : "https://res.cloudinary.com/dcu66bdvp/image/upload/v1673977051/Shweta-Singhal-3_ddkyjf.jpg",
-        "title": "FACULTY ADVISORS"
+        "title": "FACULTY ADVISOR"
     }
  ]
 
