@@ -115,6 +115,8 @@ function About() {
                     <p className='team'>TEAM</p>
                 </div>
                 <Container className='meettheteam-body'>
+                    <p className='teamName'>FACULTY ADVISORS</p>
+                    <MemberFill title={Faculty}</p>
                     <p className='teamName'>FOUNDERS</p>
                     <MemberFill title={Founders}/>
                     <p className='teamName'>Nebula</p>
