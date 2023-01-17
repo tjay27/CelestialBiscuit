@@ -5,7 +5,7 @@ import Carousel from '../Components/Carousel';
 import Footer from '../Components/Footer';
 import {Container} from 'react-bootstrap';
 import MemberFill from '../Components/MemberFill'
-import { Founders, Retrograde, Nebula, Quasars, Meridians, Martians} from '../data/Member'
+import { Faculty,Founders, Retrograde, Nebula, Quasars, Meridians, Martians} from '../data/Member'
 
 function About() {
     return (
